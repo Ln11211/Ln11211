@@ -14,16 +14,16 @@ Hit me up if you want to talk tech or code..
 ---
 
 ### 2) Handwritten Digit-Classifier App
->**This fun to make, end to end project on the very infamous MNIST dataset is a great learning experience for me on deploying ML models. Do check it out at [Ln11211/Handwritten-Digit-Classifier-App](Handwritten-Digit-Classifier-App).**
+>**This fun to make, end to end project on the very infamous MNIST dataset is a great learning experience for me on deploying ML models. Do check it out at [Ln11211/Handwritten-Digit-Classifier-App](https://github.com/Ln11211/Handwritten-Digit-Classifier-App).**
 >
 >**It has always been my goal to deploy ML models on edge devices and I hope to make it some day.**
 
 ---
 
 ### 3) Neural Network projects
->These are some NN models on datasets and problems suitable for DeepLearning and Computer vision tasks. Please find the notebooks with code on loading the dataset and working on them.
+>These are some NN models on datasets and problems suitable for DeepLearning and Computer vision tasks. Please find the notebooks with code on loading the dataset and working on them in the [neural-networks repository](https://github.com/Ln11211/neural-networks)
 ---
 
 ### 4) Regression analysis projects
->These are some projects and kaggle notebooks on datasets suitable for regression analysis that I performed  myself. These include multiple datasets and visualisations of the data correlations and the regression fits.
+>These are some projects and kaggle notebooks on datasets suitable for regression analysis that I performed  myself. These include multiple datasets and visualisations of the data correlations and the regression fits. Please find them at [Kglnotebooks](https://github.com/Ln11211/Kglnotebooks)
 ---
