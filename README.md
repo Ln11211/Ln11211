@@ -14,7 +14,7 @@ Hit me up if you want to talk tech or code..
 ---
 
 ### 2) Handwritten Digit-Classifier App
->**This fun to make, end to end project on the very infamous MNIST dataset is a great learning experience for me on deploying ML models. Do check it out at [Ln11211/Handwritten-Digit-Classifier-App](https://github.com/Ln11211/Handwritten-Digit-Classifier-App).**
+>**This fun to make, end to end project on the very famous MNIST dataset is a great learning experience for me on deploying ML models. Do check it out at [Ln11211/Handwritten-Digit-Classifier-App](https://github.com/Ln11211/Handwritten-Digit-Classifier-App).**
 >
 >**It has always been my goal to deploy ML models on edge devices and I hope to make it some day.**
 
