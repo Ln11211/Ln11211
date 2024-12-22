@@ -27,3 +27,9 @@ Hit me up if you want to talk tech or code..
 ### 4) Regression analysis projects
 >These are some projects and kaggle notebooks on datasets suitable for regression analysis that I performed  myself. These include multiple datasets and visualisations of the data correlations and the regression fits. Please find them at [Kglnotebooks](https://github.com/Ln11211/Kglnotebooks)
 ---
+
+
+I like cats, they are silly.
+
+![image](https://github.com/user-attachments/assets/3ff630ca-726a-4718-b5b2-8fac42feefae)
+
