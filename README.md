@@ -8,7 +8,7 @@ Hit me up if you want to talk tech or code..
 
 ### 1) **FADE : FPGA Accelerated Deep-learning Engine**
 >**An implementation of a FPGA accelerated Deep learning engine for running deep-learning models. Check it out at
->[Ln11211/DHaRT](https://github.com/Ln11211/FADE)**
+>[Ln11211/FADE](https://github.com/Ln11211/FADE)**
 >
 >**FADE is a hardware designed to utilize the Deep learning processing unit (DPU) to run DL algorithms for edge applicaitons.**
 ---
