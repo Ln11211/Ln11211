@@ -12,7 +12,13 @@ Hit me up if you want to talk tech or code..
 >
 ---
 
-### 2) **FADE : FPGA Accelerated Deep-learning Engine**
+### 2) **Implementation of Level 1 Data Cache**
+>**Implementation and performance profiling of two data cache organizations: Direct Mapped cache and Fully Associative cache with and without random replacement. Check it out at
+>[Ln11211/L1-Data-Cache](https://github.com/Ln11211/L1-Data-Cache)**
+>
+---
+
+### 3) **FADE : FPGA Accelerated Deep-learning Engine**
 >**An implementation of a FPGA accelerated Deep learning engine for running deep-learning models. Check it out at
 >[Ln11211/FADE](https://github.com/Ln11211/FADE)**
 >
@@ -55,7 +61,7 @@ Hit me up if you want to talk tech or code..
 ### 9) Handwritten Digit-Classifier App
 >**This fun to make, end to end project on the very famous MNIST dataset is a great learning experience for me on deploying ML models that I found in the Google Developer's course. Do check it out at [Ln11211/Handwritten-Digit-Classifier-App](https://github.com/Ln11211/Handwritten-Digit-Classifier-App).**
 >
->**It has always been my goal to deploy ML models on edge devices and I hope to make it some day.**
+>**It has always been my goal to deploy ML models on edge devices.**
 ---
 
 I like cats, they are silly.
