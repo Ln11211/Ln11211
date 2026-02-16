@@ -25,7 +25,7 @@ Hit me up if you want to talk tech or code..
 >**FADE is a hardware designed to utilize the Deep learning processing unit (DPU) to run DL algorithms for edge applicaitons.**
 ---
 
-### 4) Design and Synthesis of a Stopwatch on a FPGA board (In progress)
+### 4) Design and Synthesis of a Stopwatch on a FPGA board
 >This is an attempt to design and synthesize the hardware circuit of a stopwatch with the funcitonality to "start", "stop", "lap" and "reset" usign Vivado design suite. I'm still working on it and I would appreciate any feedback on it [Ln11211/Stopwatch](https://github.com/Ln11211/Stopwatch)
 ---
 
