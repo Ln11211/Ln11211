@@ -4,31 +4,36 @@ I like to train DL models and design hardware in Verilog :)
 
 Hit me up if you want to talk tech or code..
 
-# Check out my work on 
+# Check out my work on
 
-### 1) **Reduced Instruction Set Computer (RISC)**
+### 1) **Adaptive Edge AI Accelerator**
+>**Real-time anomaly detection engine for streaming sensor data, implemented in SystemVerilog and targeting the Digilent Nexys A7-100T FPGA board.
+>[Ln11211/sys](https://github.com/Ln11211/sys)**
+>
+---
+
+### 2) **Reduced Instruction Set Computer (RISC)**
 >**The design and implementation of an instruction set of a stripped down RISC CPU in Verilog. Check it out at
 >[Ln11211/Reduced-Instruction-Set-Computer](https://github.com/Ln11211/Reduced-Instruction-Set-Computer)**
 >
 ---
 
-### 2) **Implementation of Level 1 Data Cache**
+### 3) **Implementation of Level 1 Data Cache**
 >**Implementation and performance profiling of two data cache organizations: Direct Mapped cache and Fully Associative cache with and without random replacement. Check it out at
 >[Ln11211/L1-Data-Cache](https://github.com/Ln11211/L1-Data-Cache)**
 >
 ---
 
-### 3) **FADE : FPGA Accelerated Deep-learning Engine**
+### 4) **FADE : FPGA Accelerated Deep-learning Engine**
 >**An implementation of a FPGA accelerated Deep learning engine for running deep-learning models. Check it out at
 >[Ln11211/FADE](https://github.com/Ln11211/FADE)**
 >
 >**FADE is a hardware designed to utilize the Deep learning processing unit (DPU) to run DL algorithms for edge applicaitons.**
 ---
 
-### 4) Design and Synthesis of a Stopwatch on a FPGA board
+### 5) Design and Synthesis of a Stopwatch on a FPGA board
 >This is an attempt to design and synthesize the hardware circuit of a stopwatch with the funcitonality to "start", "stop", "lap" and "reset" usign Vivado design suite. I'm still working on it and I would appreciate any feedback on it [Ln11211/Stopwatch](https://github.com/Ln11211/Stopwatch)
 ---
-
 
 
 # Deep Learning Projects
